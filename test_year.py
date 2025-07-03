@@ -1,7 +1,7 @@
 import sys
 
 # Hardcoded input
-year = 2024  # Change this to 2024 to simulate success
+year = 2028  # Change this to 2024 to simulate success
 
 # Leap year check logic
 if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):
