@@ -1,6 +1,6 @@
 import sys
 
-year = 2024  # Change this to a leap year to pass
+year = 2025  # Change this to a leap year to pass
 
 if (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0):
     print(f"{year} is a leap year")
